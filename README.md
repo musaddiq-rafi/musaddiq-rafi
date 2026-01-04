@@ -18,7 +18,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Software Engineering;Department of Computer Science and Engineering;Islamic+University+Of+Technology;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Software+Engineering;Department+of+Computer+Science+and+Engineering;Islamic+University+Of+Technology;" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
