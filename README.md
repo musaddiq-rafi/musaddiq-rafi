@@ -5,14 +5,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Express.js+%7C+Next.js+%7C+RAG+%26+LLM+Systems;Prompt+Engineering+%7C+Docker" alt="Skills" />
 
-```diff
-+  __  __                     _     _ _         ____        __ _ 
-+ |  \/  |_   _ ___  __ _  __| | __| (_) __ _  |  _ \ __ _ / _(_)
-+ | |\/| | | | / __|/ _` |/ _` |/ _` | |/ _` | | |_) / _` | |_| |
-+ | |  | | |_| \__ \ (_| | (_| | (_| | | (_| | |  _ < (_| |  _| |
-+ |_|  |_|\__,_|___/\__,_|\__,_|\__,_|_|\__, | |_| \_\__,_|_| |_|
-+                                          |_|                   
-```
+<pre align="center">
+<code style="color: #3fb950;">
+ __  __                     _     _ _         ____        __ _ 
+|  \/  |_   _ ___  __ _  __| | __| (_) __ _  |  _ \ __ _ / _(_)
+| |\/| | | | / __|/ _` |/ _` |/ _` | |/ _` | | |_) / _` | |_| |
+| |  | | |_| \__ \ (_| | (_| | (_| | | (_| | |  _ < (_| |  _| |
+|_|  |_|\__,_|___/\__,_|\__,_|\__,_|_|\__, | |_| \_\__,_|_| |_|
+                                         |_|                   
+</code>
+</pre>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -169,7 +171,7 @@ console.log("🚀 Ready to collaborate with those who value dedication!");
 
 ### 👁️ PROFILE VIEWS
 
-<img src="https://komarev.com/ghpvc/?username=musaddiq-rafi&style=for-the-badge&color=00F7FF" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=musaddiq-rafi&style=flat-square&color=00F7FF)
 
 <img src="https://count.getloli.com/get/@musaddiq-rafi?theme=moebooru" alt="Visitor Count" />
 
