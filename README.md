@@ -108,17 +108,9 @@ console.log("🚀 Ready to collaborate with those who value dedication!");
 
 <div align="center">
 
-<a href="https://github.com/musaddiq-rafi">
-  <img src="https://github-readme-stats.vercel.app/api?username=musaddiq-rafi&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</a>
-
-<a href="https://github.com/musaddiq-rafi">
-  <img src="https://streak-stats.demolab.com?user=musaddiq-rafi&theme=transparent&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF&sideLabels=00F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" />
-</a>
-
-<a href="https://github.com/musaddiq-rafi">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaddiq-rafi&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
-</a>
+![](https://github-readme-stats.vercel.app/api?username=musaddiq-rafi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=musaddiq-rafi&theme=dark&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=musaddiq-rafi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF)
 
 </div>
 
@@ -177,9 +169,9 @@ console.log("🚀 Ready to collaborate with those who value dedication!");
 
 ### 👁️ PROFILE VIEWS
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmusaddiq-rafi&count_bg=%2300F7FF&title_bg=%230D1117&icon=github.svg&icon_color=%2300F7FF&title=VISITORS&edge_flat=false)
+<img src="https://komarev.com/ghpvc/?username=musaddiq-rafi&style=for-the-badge&color=00F7FF" alt="Profile Views" />
 
-<img src="https://moe-counter.glitch.me/get/@musaddiq-rafi?theme=rule34" alt="Profile Counter" />
+<img src="https://count.getloli.com/get/@musaddiq-rafi?theme=moebooru" alt="Visitor Count" />
 
 </div>
 
