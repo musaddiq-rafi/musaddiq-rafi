@@ -1,16 +1,24 @@
 <div align="center">
 
-# 🚀 INITIALIZING PROFILE...
-```ascii
-███╗   ███╗██╗   ██╗███████╗ █████╗ ██████╗ ██████╗ ██╗ ██████╗ 
-████╗ ████║██║   ██║██╔════╝██╔══██╗██╔══██╗██╔══██╗██║██╔═══██╗
-██╔████╔██║██║   ██║███████╗███████║██║  ██║██║  ██║██║██║   ██║
-██║╚██╔╝██║██║   ██║╚════██║██╔══██║██║  ██║██║  ██║██║██║▄▄ ██║
-██║ ╚═╝ ██║╚██████╔╝███████║██║  ██║██████╔╝██████╔╝██║╚██████╔╝
-╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝ ╚══▀▀═╝ 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=200&section=header&text=Musaddiq%20Rafi&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20IUT%20Bangladesh&descAlignY=55&descSize=18&descColor=FFFFFF" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Express.js+%7C+Next.js+%7C+RAG+%26+LLM+Systems;Prompt+Engineering+%7C+Docker" alt="Skills" />
+
+```diff
++  __  __                     _     _ _         ____        __ _ 
++ |  \/  |_   _ ___  __ _  __| | __| (_) __ _  |  _ \ __ _ / _(_)
++ | |\/| | | | / __|/ _` |/ _` |/ _` | |/ _` | | |_) / _` | |_| |
++ | |  | | |_| \__ \ (_| | (_| | (_| | | (_| | |  _ < (_| |  _| |
++ |_|  |_|\__,_|___/\__,_|\__,_|\__,_|_|\__, | |_| \_\__,_|_| |_|
++                                          |_|                   
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=940&lines=HOBU+SOFTWARE+ENGINEER+%7C+BANGLADESH+🇧🇩;ISLAMIC+UNIVERSITY+OF+TECHNOLOGY;BUILDING+THE+FUTURE+ONE+COMMIT+AT+A+TIME;وَمَا+تَوْفِيقِي+إِلَّا+بِاللَّهِ" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Software Engineering;Department of Computer Science and Engineering;Islamic+University+Of+Technology;" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
 </div>
 
@@ -18,14 +26,15 @@
 
 ## 📡 SYSTEM STATUS
 ```javascript
-const musaddiq = {
+const musaddiqRafi = {
+    name: "Musaddiq Rafi",
     location: "Gazipur, Bangladesh 🇧🇩",
     education: "Islamic University of Technology (IUT)",
-    status: "hobu-software-engineer", // upcoming ✨
+    role: "Full-Stack Developer",
+    skills: ["Express.js", "Next.js", "RAG & LLM Systems", "Prompt Engineering", "Docker"],
     currentMission: "Leveling up skills && Building cool stuff",
     values: ["Quality over Quantity", "Collaboration", "Continuous Learning"],
-    faith: "وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ",
-    motto: "Success through Allah, reliance on Him, return to Him"
+
 };
 
 console.log("🚀 Ready to collaborate with those who value dedication!");
@@ -37,15 +46,12 @@ console.log("🚀 Ready to collaborate with those who value dedication!");
 
 ## 🎯 CONNECT WITH ME
 
-<a href="https://www.facebook.com/abdullahalmusaddiq.rafi/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
-</a>
-<a href="https://www.linkedin.com/in/musaddiq-rafi/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-</a>
-<a href="mailto:musaddiq@iut-dhaka.edu">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="100">
+
+<a href="https://www.facebook.com/abdullahalmusaddiq.rafi/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/musaddiq-rafi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:musaddiq@iut-dhaka.edu"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/musaddiq-rafi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -54,6 +60,8 @@ console.log("🚀 Ready to collaborate with those who value dedication!");
 <div align="center">
 
 ## ⚡ TECH ARSENAL
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 ### 💾 Core Programming
 
@@ -88,24 +96,29 @@ console.log("🚀 Ready to collaborate with those who value dedication!");
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 </div>
 
 ---
 
 ## 📊 PERFORMANCE METRICS
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=musaddiq-rafi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=musaddiq-rafi&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF" />
-
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaddiq-rafi&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&layout=compact&langs_count=8" />
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=musaddiq-rafi&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
+<a href="https://github.com/musaddiq-rafi">
+  <img src="https://github-readme-stats.vercel.app/api?username=musaddiq-rafi&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/musaddiq-rafi">
+  <img src="https://streak-stats.demolab.com?user=musaddiq-rafi&theme=transparent&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF&sideLabels=00F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" />
+</a>
+
+<a href="https://github.com/musaddiq-rafi">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaddiq-rafi&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
+</a>
 
 </div>
 
@@ -115,7 +128,7 @@ console.log("🚀 Ready to collaborate with those who value dedication!");
 
 ## 🏆 ACHIEVEMENT UNLOCKED
 
-<img src="https://github-profile-trophy.vercel.app/?username=musaddiq-rafi&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+![Trophy](https://github-profile-trophy.vercel.app/?username=musaddiq-rafi&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
@@ -135,6 +148,8 @@ console.log("🚀 Ready to collaborate with those who value dedication!");
 
 ## 📈 CONTRIBUTION GRAPH
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=musaddiq-rafi&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
@@ -142,17 +157,29 @@ console.log("🚀 Ready to collaborate with those who value dedication!");
 ---
 
 <div align="center">
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  "And my success is only through Allah.                       ║
-║   Upon Him I have relied, and to Him I return."               ║
-║                                        - Surah Hud (11:88)    ║
-╚═══════════════════════════════════════════════════════════════╝
+
 ```
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║     "And my success is only through Allah.                         ║
+║      Upon Him I have relied, and to Him I return."                 ║
+║                                                                    ║
+║                                      — Surah Hud (11:88)           ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
 
 ### 👁️ PROFILE VIEWS
 
-<img src="https://visitcount.itsvg.in/api?id=musaddiq-rafi&icon=2&color=12" />
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmusaddiq-rafi&count_bg=%2300F7FF&title_bg=%230D1117&icon=github.svg&icon_color=%2300F7FF&title=VISITORS&edge_flat=false)
+
+<img src="https://moe-counter.glitch.me/get/@musaddiq-rafi?theme=rule34" alt="Profile Counter" />
 
 </div>
 
@@ -162,7 +189,10 @@ console.log("🚀 Ready to collaborate with those who value dedication!");
 
 ### 💼 OPEN FOR COLLABORATION
 
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
 **Looking to work with individuals who value dedication, quality, and mutual respect**
+
 ```javascript
 if (you.values === "quality" && you.mindset === "growth") {
     console.log("Let's build something amazing together! 🚀");
@@ -170,12 +200,9 @@ if (you.values === "quality" && you.mindset === "growth") {
 }
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=72"/>
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</div>
